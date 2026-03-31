@@ -14,7 +14,7 @@
 - ⚡ Strong in **JavaScript, TypeScript, React & Angular**
 - 🛠️ Experience with **WordPress, Elementor & WooCommerce**
 - 🌎 Looking for **international freelance opportunities**
-- 🎯 Obsessed with performance, UX and results
+- 🎯 Obsessed with performance, UX/UI and results
 
 ---
 
