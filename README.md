@@ -29,8 +29,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fernando-Magaldi-Coelho&show_icons=true&theme=radical&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando-Magaldi-Coelho&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.tuhidulhossain.com/api?username=Fernando-Magaldi-Coelho&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=Fernando-Magaldi-Coelho&layout=compact&theme=radical"/>
 </p>
 
 ---
