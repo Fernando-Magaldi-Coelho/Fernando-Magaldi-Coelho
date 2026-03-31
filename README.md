@@ -33,32 +33,28 @@
 </p>
 
 <p align="center">
-  <img height="180em" align="center" src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=Fernando-Magaldi-Coelho&theme=radical" />
-  <img height="180em" align="center" src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=Fernando-Magaldi-Coelho&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=Fernando-Magaldi-Coelho&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=Fernando-Magaldi-Coelho&layout=compact&theme=radical&langs_count=8&hide_border=true" />
 </p>
 
 ---
 
 ### 🔥 What I Build
 
-- 🚀 High-conversion Landing Pages
-- 🛒 WooCommerce custom solutions
-- ⚙️ WordPress advanced customizations
-- 💻 Frontend apps with React & Angular
-- 🤖 Automation and smart UI interactions
+- 🚀 High-conversion Landing Pages  
+- 🛒 WooCommerce custom solutions  
+- ⚙️ WordPress advanced customizations  
+- 💻 Frontend apps with React & Angular  
+- 🤖 Automation and smart UI interactions  
 
 ---
 
 ### 🌎 Connect with me
 
 <p align="center">
-  <a href="https://fernando-magaldi.com.br">
-    🌐 Portfolio
-  </a>
+  <a href="https://fernando-magaldi.com.br">🌐 Portfolio</a>
   •
-  <a href="https://instagram.com/magaldi.code">
-    📸 Instagram
-  </a>
+  <a href="https://instagram.com/magaldi.code">📸 Instagram</a>
 </p>
 
 ---
