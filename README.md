@@ -2,7 +2,7 @@
 <h3 align="center">Web Developer focused on high-conversion websites 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=F75C7E&size=25&center=true&vCenter=true&width=600&lines=JavaScript+%7C+TypeScript+Developer;React+%7C+Angular+Specialist;WordPress+%26+High+Conversion+LPs;Building+things+that+generate+results" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=F75C7E&size=25&center=true&vCenter=true&width=600&lines=JavaScript+%7C+TypeScript+Developer;React+%7C+Angular;WordPress+%26+High+Conversion;Building+things+that+generate+results" />
 </p>
 
 ---
