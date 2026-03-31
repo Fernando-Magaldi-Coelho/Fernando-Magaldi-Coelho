@@ -35,6 +35,7 @@
 <p align="center">
   <img src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=Fernando-Magaldi-Coelho&theme=radical" />
   <img src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=Fernando-Magaldi-Coelho&layout=compact&theme=radical" />
+
 </p>
 
 ---
