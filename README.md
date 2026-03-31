@@ -1,16 +1,64 @@
-## Hi there 👋
+<h1 align="center">Hey 👋 I'm Fernando Magaldi</h1>
+<h3 align="center">Web Developer focused on high-conversion websites 🚀</h3>
 
-<!--
-**Fernando-Magaldi-Coelho/Fernando-Magaldi-Coelho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=F75C7E&size=25&center=true&vCenter=true&width=600&lines=JavaScript+%7C+TypeScript+Developer;React+%7C+Angular+Specialist;WordPress+%26+High+Conversion+LPs;Building+things+that+generate+results" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+- 💼 Web Developer at **Nonna Agência Digital**
+- 🚀 Focused on **high-conversion landing pages**
+- ⚡ Strong in **JavaScript, TypeScript, React & Angular**
+- 🛠️ Experience with **WordPress, Elementor & WooCommerce**
+- 🌎 Looking for **international freelance opportunities**
+- 🎯 Obsessed with performance, UX and results
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,angular,nodejs,php,wordpress,html,css" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fernando-Magaldi-Coelho&show_icons=true&theme=radical&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando-Magaldi-Coelho&layout=compact&theme=radical"/>
+</p>
+
+---
+
+### 🔥 What I Build
+
+- 🚀 High-conversion Landing Pages
+- 🛒 WooCommerce custom solutions
+- ⚙️ WordPress advanced customizations
+- 💻 Frontend apps with React & Angular
+- 🤖 Automation and smart UI interactions
+
+---
+
+### 🌎 Connect with me
+
+<p align="center">
+  <a href="https://fernando-magaldi.com.br">
+    🌐 Portfolio
+  </a>
+  •
+  <a href="https://instagram.com/magaldi.code">
+    📸 Instagram
+  </a>
+</p>
+
+---
+
+### ⚡ Fun Fact
+
+I don’t just build websites… I build **machines that generate clients** 💰
