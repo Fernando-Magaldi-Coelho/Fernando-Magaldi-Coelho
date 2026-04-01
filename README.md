@@ -43,19 +43,29 @@
 
 - 🚀 High-conversion Landing Pages  
 - 🛒 WooCommerce custom solutions  
-- ⚙️ WordPress advanced customizations  
-- 💻 Frontend apps with React & Angular  
-- 🤖 Automation and smart UI interactions  
+- ⚙️ WordPress advanced customizations
+- 🔍 JetEngine (Crocoblock) specialist
+- 💻 Frontend with React & Angular  
+- 🤖 Automation and smart UI/UX interactions  
 
 ---
 
 ### 🌎 Connect with me
 
-<p align="center">
-  <a href="https://fernando-magaldi.com.br">🌐 Portfolio</a>
-  •
-  <a href="https://instagram.com/magaldi.code">📸 Instagram</a>
-</p>
+<div> 
+  <a href="https://fernando-magaldi.com.br" target="_blank">
+  <img src="https://img.shields.io/badge/My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" target="_blank">
+</a>
+  <a href="https://instagram.com/magaldi.code" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  <a href="mailto:magaldicoelhofernando@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/fernando-magaldi-coelho-9a92b9274/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+</div>
 
 ---
 
